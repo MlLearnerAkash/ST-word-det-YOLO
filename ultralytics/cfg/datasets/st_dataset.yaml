@@ -1,0 +1,6 @@
+path: /home/akash/ws/dataset/ST/real_data/YOLODataBbox/
+train: images/train
+val: images/val
+names:
+- w
+nc: 1
